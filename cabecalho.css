@@ -1,0 +1,23 @@
+.barratop{
+
+    background-color: #2023e0;
+    top: 0px;
+    left: 0px;
+    height: 150px;
+    width: 100%;
+    position: absolute;
+
+}
+
+.btmenu{
+
+    text-align: center;
+
+}
+
+.btn{
+
+    padding: 15px 5px 15px 5px;
+    cursor: pointer;
+
+}
